@@ -4,4 +4,4 @@ Created a Blackjack game using Python language.
 
 <br/>
 
-<img src="https://i.imgur.com/OlO6mRP.png" alt="image"/>
+<img src="https://i.imgur.com/fhhWtZy.png" alt="image"/>
