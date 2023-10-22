@@ -26,10 +26,12 @@ def compare(user_score, computer_score):
         return "lose, opponent has Blackjack"
     elif user_score == 0:
         return "Win with Blackjack"
+    elif user_score > 21:
+        return "You went over. You lose"
     elif computer_score > 21:
         return "Opponent went over. You win"
     elif user_score > computer_score:
-        return "You lose"
+        return "You win"
     else:
         return "You lose"
 
